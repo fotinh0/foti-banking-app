@@ -201,7 +201,7 @@
   }
 
   .transactions-account {
-    @apply flex flex-col justify-between gap-4 rounded-lg border-y bg-blue-600 px-4 py-5 md:flex-row;
+    @apply flex flex-col justify-between gap-4 rounded-lg border-y bg-bank-gradient px-4 py-5 md:flex-row;
   }
 
   .transactions-account-balance {

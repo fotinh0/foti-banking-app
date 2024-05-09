@@ -90,10 +90,10 @@ const AuthForm = ({ type }: { type: string }) => {
             src="/icons/logo.svg"
             width={34}
             height={34}
-            alt="Horizon logo"
+            alt="Foti Banking logo"
           />
           <h1 className="text-26 font-ibm-plex-serif font-bold text-black-1">
-            Horizon
+            Foti Banking
           </h1>
         </Link>
 

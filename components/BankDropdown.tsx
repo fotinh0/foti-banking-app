@@ -52,6 +52,7 @@ export const BankDropdown = ({
           width={20}
           height={20}
           alt="account"
+          color="fill-lime-600"
         />
         <p className="line-clamp-1 w-full text-left">{selected.name}</p>
       </SelectTrigger>
@@ -71,7 +72,7 @@ export const BankDropdown = ({
             >
               <div className="flex flex-col ">
                 <p className="text-16 font-medium">{account.name}</p>
-                <p className="text-14 font-medium text-blue-600">
+                <p className="text-14 font-medium text-lime-600">
                   {formatAmount(account.currentBalance)}
                 </p>
               </div>
