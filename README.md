@@ -75,7 +75,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/fotinh0/foti-banking-app.git
-cd banking
+cd foti-banking-app
 ```
 
 **Installation**
