@@ -22,9 +22,13 @@ Active URL: [foti-banking-app.vercel.app](foti-banking-app.vercel.app)
 
 # NOTE:
 
-To check out the application with a test account, you can use the following credentials: email: applejuice@gmail.com, pw: abcd1234
+To check out the application with a test account, you can use the following credentials -> email: rayred@fotibanking.com, pw: abcd1234
 
-If you want to create you own account without connecting your bank information, you can use Plaid's test credentials to add dummy bank accounts to your profile: username: user_good, password: pass_good
+If you want to create you own account without connecting your bank information, you can use Plaid's test credentials to add dummy bank accounts to your profile: 
+- Step 1: Click 'Continue' and select Chase as the institution.
+- Step 2: Click 'Continue to log in' and enter the following login information -> username: user_good, password: pass_good. 
+- Step 3: Select 'Mobile' when promted to verify your identity and click 'Get code'.
+- Step 4: Click 'Submit' without entering any security code. 
 
 ## <a name="tech-stack">Tech Stack</a>
 
